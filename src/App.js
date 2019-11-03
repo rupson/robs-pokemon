@@ -278,6 +278,10 @@ function App() {
                     </div>
                 </>
             )}
+            <span>
+                View source on{" "}
+                <a href="https://github.com/rupson/robs-pokemon">GitHub</a>
+            </span>
         </div>
     );
 }
